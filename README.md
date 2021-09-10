@@ -18,12 +18,20 @@ Other Interests:
 ```
 
 ---
+
 ### Old Game Projects (C#)
 
 - <img src="https://play-lh.googleusercontent.com/9GG8G1YaAzi9FsBOhfaHcJdCJOOldvrB_7uTXefB-W7xXtirrVJUzzb6eWhVtllSDE0=s180-rw" width="15" height="15" />  [Redirect](https://play.google.com/store/apps/details?id=com.SamRC.Redirect) (Feb 2017)
   - Redirect the launcher ball to collect as many balls as possible in 100 seconds by tapping on a square of the grid to lift it
 - <img src="https://play-lh.googleusercontent.com/qMVUqe0g7Z8GrwrnDLRME3T2UNy5VfrMyxGI8yFyf6Y8LrjhxN32L0jh3KQhoRlxOkRO=s180-rw" width="15" height="15" />  [Stasis (Balancing game)](https://play.google.com/store/apps/details?id=com.SamRC.StasisBalance) (Jan 2017)
   - Balance the cube as far as possible using your phone's accelerometer
+
+---
+
+### Other Projects
+
+- <img src="https://samrc.gallerycdn.vsassets.io/extensions/samrc/night-pink/0.5.0/1627070313487/Microsoft.VisualStudio.Services.Icons.Default" width="15" height="15" /> [Night Pink](https://marketplace.visualstudio.com/items?itemName=SamRC.night-pink)
+  - A theme for Visual Studio Code
 
 ---
 
