@@ -1,7 +1,5 @@
 ### Tech Stack
 
----
-
 ```yml
 Web Dev:
 - MERN (MongoDB, ExpressJS, ReactJS, NodeJS)
