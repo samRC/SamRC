@@ -20,7 +20,7 @@ Other Interests:
 ### Web/Mobile Projects (MERN Stack)
 
 #### Stocks News Feed
-- Demo: [https://www.youtube.com/watch?v=tuL-qU49tSU](https://www.youtube.com/watch?v=tuL-qU49tSU)
+- [Demo Video](https://www.youtube.com/watch?v=tuL-qU49tSU)
 - __Stocks News Feed__ (FrontEnd)
   - (built using React Native)
   - Mobile app to fetch recent news of stocks
