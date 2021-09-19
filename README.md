@@ -22,13 +22,13 @@ Other Interests:
 #### Stocks News Feed
 - [Demo Video](https://www.youtube.com/watch?v=tuL-qU49tSU)
 - __Stocks News Feed__ (FrontEnd)
+  - _Repo:_ [https://github.com/samRC/stocks-news-feed](https://github.com/samRC/stocks-news-feed)
   - (built using React Native)
   - Mobile app to fetch recent news of stocks
-  - _Repo:_ [https://github.com/samRC/stocks-news-feed](https://github.com/samRC/stocks-news-feed)
 - __Stocks Backend__ (BackEnd)
+  - _Repo:_ [https://github.com/samRC/stocks-backend](https://github.com/samRC/stocks-backend)
   - (built using NodeJS/ExpressJS)
   - REST API for retrieving Stock Market news and other info
-  - _Repo:_ [https://github.com/samRC/stocks-backend](https://github.com/samRC/stocks-backend)
 
 ---
 
