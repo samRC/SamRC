@@ -19,6 +19,11 @@ Other Interests:
 
 ### Web/Mobile Projects (MERN Stack)
 
+#### Src Messenger
+- Simple anonymous texting app 
+- (built using ReactJS and Firebase)
+- _Repo:_ [https://github.com/samRC/src-messenger](https://github.com/samRC/src-messenger)
+
 #### Stocks News Feed
 - [Demo Video](https://www.youtube.com/watch?v=tuL-qU49tSU)
 - __Stocks News Feed__ (FrontEnd)
