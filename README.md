@@ -48,10 +48,12 @@ Other Interests:
 ---
 
 ### Other Projects
-
+#### Extensions
 - <img src="https://samrc.gallerycdn.vsassets.io/extensions/samrc/night-pink/0.5.0/1627070313487/Microsoft.VisualStudio.Services.Icons.Default" width="15" height="15" /> [Night Pink](https://marketplace.visualstudio.com/items?itemName=SamRC.night-pink)
   - A theme for Visual Studio Code
-
+#### Packages/tools
+- clear-react-app
+  - [https://www.npmjs.com/package/clear-react-app](https://www.npmjs.com/package/clear-react-app)
 ---
 
 ### Blogs
